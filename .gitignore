@@ -13,6 +13,6 @@ node_modules/
 *.log
 *.log.*
 
-# os crap
+# os related
 Thumbs.db
 ~*
